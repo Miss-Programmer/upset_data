@@ -1,0 +1,13 @@
+﻿{
+	"file": "https://raw.githubusercontent.com/Miss-Programmer/upset_data/master/Pishniaz.csv",
+	"name": "دروس گرایش داده کاوی",
+	"header": 0,
+	"separator": ",",
+	"meta": [
+		{ "type": "id", "index": 0, "name": "نام درس" },
+		{ "type": "string", "index":4, "name":"نام استاد" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 20 }
+	]
+}
