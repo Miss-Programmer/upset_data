@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/Miss-Programmer/upset_data/master/data.csv",
-	"name": "Movie",
+	"name": "Iranian Movies",
 	"header": 0,
 	"separator": ",",
 	"meta": [
@@ -11,6 +11,6 @@
 		{ "type": "integer", "index":4, "name":"year" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 50 }
-	]
+		{ "format": "binary", "start": 5, "end": 16 }
+	],
 }
