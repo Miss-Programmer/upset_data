@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/Miss-Programmer/upset_data/master/data.csv",
+	"name": "Movie",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "integer", "index": 0, "name": "rate" },
+		{ "type": "integer", "index": 1, "name": "Top" },
+		{ "type": "string", "index": 2, "name": "Name" },
+		{ "type": "integer", "index": 3, "name": "salesAmount" },
+		{ "type": "integer", "index":4, "name":"year" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 50 }
+	],
+    "author": "grouplens",
+    "description": "MovieLens ratings dataset, curated and filtered by Alsallakh.",
+    "source": "http://grouplens.org/datasets/movielens/"
+}
