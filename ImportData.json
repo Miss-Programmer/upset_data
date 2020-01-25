@@ -12,5 +12,5 @@
 	],
 	"sets": [
 		{ "format": "binary", "start": 5, "end": 16 }
-	],
+	]
 }
